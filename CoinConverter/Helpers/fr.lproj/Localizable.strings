@@ -1,0 +1,80 @@
+/*
+  Localizable.strings
+  CoinsConverter
+
+  Created by Armen Gasparyan on 02.08.21.
+  
+*/
+
+//MARK: - Converter
+"converter"                         = "Convertisseur";
+"market_cap_usd"                    = "Capitalisation boursière USD";
+"price_usd"                         = "Prix USD";
+"price_btc"                         = "Prix BTC";
+"last_updated"                      = "Dernière mise à jour";
+"item_already_exist"                = "Item Already Exist";
+"coin"                              = "Monnai";
+"fiat"                              = "Fiat";
+"min"                              = "min";
+"ago"                              = "il y a";
+
+//MARK: - Settings
+"settings"                          = "Paramètres";
+"dark_mode"                         = "Mode noir";
+"offline_mode"                      = "Mode hors-ligne";
+"feedback"                          = "Rétroaction";
+"share_app"                         = "Share App";
+"rate_app"                          = "Taux d'application";
+"manage_subscription"               = "Gestion abonnements";
+"app_version"                       = "Taux App";
+"languages"                         = "Langue";
+"remove_ads"                        = "Supprimer des annonces";
+
+
+//MARK: - Animation
+"retry"                             = "Réessayer";
+
+
+//MARK: - Chart
+"rank"                              = "Rang";
+"explorers"                         = "Explorateurs";
+"change_1_hour"                     = "Changement 1 heure";
+"change_24_hour"                    = "Changement 24 heure";
+"change_7_day"                      = "Changement 1 semaine";
+
+
+//MARK: - Subscription
+"month"                             = "Mois";
+"week"                              = "Semaine";
+"year"                              = "An";
+
+"subscription_save"                 = "Économisez percent%. 12 mois à newMonthlyCost/mois";
+"subscription_info"                 = "Accès illimité à toutes les pièces et devises";
+"subscription_text"                 = "Après l'achat, votre abonnement se renouvelle automatiquement à moins que le renouvellement automatique ne soit désactivé au moins 24 heures avant la fin de la période en cours. Le paiement sera débité du compte App Store lors de la confirmation de l'achat. Votre compte sera débité pour le renouvellement dans les 24 heures avant la fin de la période en cours et identifiera le coût du renouvellement. Les abonnements peuvent être gérés et annulés à partir des paramètres du compte après l'achat.";
+
+"restore"                           = "Restaurer";
+"privacy_policy"                    = "Politique de confidentialité";
+"terms_of_use"                      = "Conditions d'utilisation";
+
+// MARK: - News
+"news"                                                          = "Nouvelles";
+"my_feed"                                                       = "Mon flux";
+"top_news"                                                      = "Top News";
+"all_news"                                                      = "Toutes les actualités";
+"added_sources"                                                 = "Sources ajoutées";
+"all_sources"                                                   = "Toutes les sources";
+"bookmark"                                                      = "Ajouter aux favoris";
+"add_sources"                                                   = "Ajouter des sources";
+"top"                                                           = "Top";
+"bookmarks"                                                     = "Signets";
+"sources"                                                       = "Sources";
+"favorites"                                                     = "Favoris";
+"add_favorite_text"                                             = "Appuyez sur le signe + pour ajouter un nouveau flux :";
+"no_items_available"                                            = "Aucun article disponible";
+"all"                                                           = "Tous";
+
+// MARK: - Default
+"cancel"                                                        = "Annuler";
+"search"                                                        = "Recherchez";
+
+

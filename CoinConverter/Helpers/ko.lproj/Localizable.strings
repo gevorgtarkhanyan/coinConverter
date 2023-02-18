@@ -1,0 +1,79 @@
+/*
+  Localizable.strings
+  CoinsConverter
+
+  Created by Armen Gasparyan on 02.08.21.
+  
+*/
+
+//MARK: - Converter
+"converter"                         = "변환기입니다";
+"market_cap_usd"                    = "시가 총액 USD";
+"price_usd"                         = "가격 USD";
+"price_btc"                         = "가격 BTC";
+"last_updated"                      = "마지막 업데이트";
+"item_already_exist"                = "Item Already Exist";
+"coin"                              = "동전";
+"fiat"                              = "피아트의";
+"min"                              = "분";
+"ago"                              = "전에";
+
+//MARK: - Settings
+"settings"                          = "설정";
+"dark_mode"                         = "어두운 모드";
+"offline_mode"                      = "오프라인 모드";
+"feedback"                          = "피드백";
+"share_app"                         = "앱 공유";
+"rate_app"                          = "앱 평가";
+"manage_subscription"               = "구독 관리";
+"app_version"                       = "앱 버전";
+"languages"                         = "언어";
+"remove_ads"                        = "광고 제거";
+
+
+//MARK: - Animation
+"retry"                             = "재시도";
+
+
+//MARK: - Chart
+"rank"                              = "계급";
+"explorers"                         = "탐험가";
+"change_1_hour"                     = "1 시간 변경";
+"change_24_hour"                    = "24시간 변경하세요";
+"change_7_day"                      = "1 주 변경";
+
+
+//MARK: - Subscription
+"month"                             = "달";
+"week"                              = "주";
+"year"                              = "년";
+
+"subscription_save"                 = "Économisez percent%. 12 mois à newMonthlyCost/mois";
+"subscription_info"                 = "모든 코인 및 외환 무제한 이용";
+"subscription_text"                 = "구매 후 현재 기간이 끝나기 최소 24시간 전에 자동 갱신이 해제되어 있지 않으면 구독이 자동으로 갱신됩니다. 결제는 구매 확인시 App Store 계정으로 청구됩니다. 당신의 계정은 현재 기간이 끝나기 전에 24 시간 이내에 갱신 비용이 청구되며, 업데이트 비용을 식별합니다. 가입은 구입 후 계정 설정에서 관리 및 취소 할 수 있습니다.";
+
+"restore"                           = "복원";
+"privacy_policy"                    = "개인 정보 정책";
+"terms_of_use"                      = "이용 약관";
+
+// MARK: - News
+"news"                                                          = "뉴스";
+"my_feed"                                                       = "마이 피드";
+"top_news"                                                      = "주요 뉴스";
+"all_news"                                                      = "모든 뉴스";
+"added_sources"                                                 = "추가된 소스";
+"all_sources"                                                   = "모든 소스";
+"bookmark"                                                      = "북마크";
+"add_sources"                                                   = "소스 추가";
+"top"                                                           = "맨 위";
+"bookmarks"                                                     = "책갈피";
+"sources"                                                       = "원천";
+"favorites"                                                     = "즐겨 찾기";
+"add_favorite_text"                                             = "+ 기호를 눌러 새 피드를 추가합니다.";
+"no_items_available"                                            = "사용 가능한 항목이 없습니다";
+"all"                                                           = "모든";
+
+// MARK: - Default
+"cancel"                                                        = "취소";
+"search"                                                        = "수색";
+

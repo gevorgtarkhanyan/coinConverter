@@ -1,0 +1,79 @@
+/*
+  Localizable.strings
+  CoinsConverter
+
+  Created by Armen Gasparyan on 02.08.21.
+  
+*/
+
+//MARK: - Converter
+"converter"                         = "Конвертер";
+"market_cap_usd"                    = "Рыночная кап USD";
+"price_usd"                         = "Цена USD";
+"price_btc"                         = "Цена BTC";
+"last_updated"                      = "Последнее обновление";
+"item_already_exist"                = "Item Already Exist";
+"coin"                              = "Монет";
+"fiat"                              = "Фиат";
+"min"                              = "мин";
+"ago"                              = "назад";
+
+//MARK: - Settings
+"settings"                          = "Настройки";
+"dark_mode"                         = "Темный режим";
+"offline_mode"                      = "Автономный режим";
+"feedback"                          = "Отзыв";
+"share_app"                         = "Поделиться Приложением";
+"rate_app"                          = "Оценить приложение";
+"manage_subscription"               = "Управление Подпиской";
+"app_version"                       = "Версия приложения";
+"languages"                         = "Язык";
+"remove_ads"                        = "Удалить рекламу";
+
+
+//MARK: - Animation
+"retry"                             = "Повторить";
+
+
+//MARK: - Chart
+"rank"                              = "Ранг";
+"explorers"                         = "Исследователи";
+"change_1_hour"                     = "Сдвиг 1 час";
+"change_24_hour"                    = "Сдвиг 24 часа";
+"change_7_day"                      = "Сдвиг 1 неделя";
+
+
+//MARK: - Subscription
+"month"                             = "Месяц";
+"week"                              = "Неделя";
+"year"                              = "Год";
+
+"subscription_save"                 = "Сэкономьте percent%. 12 месяцев по newMonthlyCost / мес.";
+"subscription_info"                 = "Неограниченный доступ ко всем монетам и иностранной валюте";
+"subscription_text"                 = "После покупки ваша подписка автоматически возобновляется, если автоматическое продление не будет отключено по крайней мере за 24 часа до окончания текущего периода. Оплата будет снята с учетной записи App Store при подтверждении покупки. С вашего счета будет снята плата за продление в течение 24 часов до окончания текущего периода и определена стоимость продления. Подписки можно управлять и отменять из настроек учетной записи после покупки.";
+
+"restore"                           = "Восстановить";
+"privacy_policy"                    = "Политика конфиденциальности";
+"terms_of_use"                      = "Условия использования";
+
+// MARK: - News
+"news"                                                          = "Новости";
+"my_feed"                                                       = "Моя лента";
+"top_news"                                                      = "Главные новости";
+"all_news"                                                      = "Все новости";
+"added_sources"                                                 = "Добавленные источники";
+"all_sources"                                                   = "Все источники";
+"bookmark"                                                      = "Закладка";
+"add_sources"                                                   = "Добавить источники";
+"top"                                                           = "Топ";
+"bookmarks"                                                     = "Закладки";
+"sources"                                                       = "Источники";
+"favorites"                                                     = "Избранное";
+"add_favorite_text"                                             = "Нажмите знак +, чтобы добавить новый канал:";
+"no_items_available"                                            = "Нет записей";
+"all"                                                           = "Все";
+
+// MARK: - Default
+"cancel"                                                        = "Отмена";
+"search"                                                        = "Поиск";
+

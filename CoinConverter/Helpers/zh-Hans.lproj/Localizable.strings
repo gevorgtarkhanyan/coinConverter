@@ -1,0 +1,80 @@
+/*
+  Localizable.strings
+  CoinsConverter
+
+  Created by Armen Gasparyan on 02.08.21.
+  
+*/
+
+//MARK: - Converter
+"converter"                         = "转换器";
+"market_cap_usd"                    = "市值美元";
+"price_usd"                         = "价格USD";
+"price_btc"                         = "价格BTC";
+"last_updated"                      = "上次更新时间";
+"item_already_exist"                = "Item Already Exist";
+"coin"                              = "货币";
+"fiat"                              = "法币";
+"min"                              = "分";
+"ago"                              = "前";
+
+//MARK: - Settings
+"settings"                          = "设置";
+"dark_mode"                         = "黑暗模式";
+"offline_mode"                      = "离线模式";
+"feedback"                          = "反馈";
+"share_app"                         = "Share App";
+"rate_app"                          = "评价应用";
+"manage_subscription"               = "管理订阅";
+"app_version"                       = "应用版本";
+"languages"                         = "语言";
+"remove_ads"                        = "删除广告";
+
+
+//MARK: - Animation
+"retry"                             = "重试";
+
+
+//MARK: - Chart
+"rank"                              = "秩";
+"explorers"                         = "探险家";
+"coin_price_change_1_hour"          = "1小时";
+"coin_price_change_24_hours"        = "24小时";
+"coin_price_change_7_days"          = "1周";
+
+
+//MARK: - Subscription
+"month"                             = "月";
+"week"                              = "周";
+"year"                              = "年";
+
+"subscription_save"                 = "节省 percent%。 12 个月，newMonthlyCost/月";
+"subscription_info"                 = "无限制使用所有硬币和外汇";
+"subscription_text"                 = "购买后，您的订阅会自动续订，除非在当前订阅期结束前至少 24 小时关闭自动续订。 付款将在确认购买时通过App Store帐户收取。 您的帐户将在当前期间结束前24小时内收取续订费用，并确定续订费用。购买后，可以通过“帐户设置”管理和取消订阅。";
+
+"restore"                           = "恢复";
+"privacy_policy"                    = "隐私政策";
+"terms_of_use"                      = "使用条款";
+
+// MARK: - News
+"news"                                                          = "新闻";
+"my_feed"                                                       = "我的饲料";
+"top_news"                                                      = "头条新闻";
+"all_news"                                                      = "所有新闻";
+"added_sources"                                                 = "添加的来源";
+"all_sources"                                                   = "所有来源";
+"bookmark"                                                      = "书签";
+"add_sources"                                                   = "添加来源";
+"top"                                                           = "顶部";
+"bookmarks"                                                     = "书签";
+"sources"                                                       = "来源";
+"favorites"                                                     = "嬖";
+"add_favorite_text"                                             = "按+符号添加新的提要：";
+"no_items_available"                                            = "没有可用的物品";
+"all"                                                           = "所有";
+
+// MARK: - Default
+"cancel"                                                        = "取消";
+"search"                                                        = "搜索";
+
+

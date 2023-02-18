@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CoinFiatFooterView" customModule="CoinConverter" customModuleProvider="target">
+            <connections>
+                <outlet property="backView" destination="xee-Ii-wIr" id="e0C-PI-elx"/>
+                <outlet property="contentView" destination="iN0-l3-epB" id="v3p-S8-S43"/>
+                <outlet property="currentCriptoSymbolLabel" destination="AIx-Pa-dcg" id="SUf-kV-GGp"/>
+                <outlet property="priceTextField" destination="ZnO-FQ-8oG" id="xYP-vo-HZZ"/>
+                <outlet property="separatorBottomView" destination="csE-bq-dTS" id="UuK-Mr-8fu"/>
+                <outlet property="separatorTopView" destination="o2x-hj-Meg" id="V3q-BB-CaB"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="BigSeparatorView" customModule="CoinConverter" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="96"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="o2x-hj-Meg" customClass="BigSeparatorView" customModule="CoinConverter" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="0.0" width="414" height="28"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="csE-bq-dTS" customClass="BigSeparatorView" customModule="CoinConverter" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="68" width="414" height="28"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xee-Ii-wIr" customClass="BaseView" customModule="CoinConverter" customModuleProvider="target">
+                    <rect key="frame" x="0.0" y="28" width="414" height="40"/>
+                    <subviews>
+                        <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" placeholder="1" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ZnO-FQ-8oG" customClass="BaseTextField" customModule="CoinConverter" customModuleProvider="target">
+                            <rect key="frame" x="16" y="6" width="290" height="28"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                            <textInputTraits key="textInputTraits" autocorrectionType="no" spellCheckingType="no" keyboardType="decimalPad" smartDashesType="no" smartInsertDeleteType="no" smartQuotesType="no"/>
+                            <connections>
+                                <outlet property="delegate" destination="-1" id="UGi-b0-8pN"/>
+                            </connections>
+                        </textField>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="BTC" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="AIx-Pa-dcg" customClass="BaseLabel" customModule="CoinConverter" customModuleProvider="target">
+                            <rect key="frame" x="310" y="11" width="88" height="18"/>
+                            <fontDescription key="fontDescription" name="Helvetica" family="Helvetica" pointSize="15"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="40" id="1qa-vK-qOc"/>
+                        <constraint firstItem="ZnO-FQ-8oG" firstAttribute="centerY" secondItem="xee-Ii-wIr" secondAttribute="centerY" id="3tl-fi-D3y"/>
+                        <constraint firstItem="AIx-Pa-dcg" firstAttribute="leading" secondItem="ZnO-FQ-8oG" secondAttribute="trailing" constant="4" id="4zG-je-opz"/>
+                        <constraint firstItem="ZnO-FQ-8oG" firstAttribute="width" secondItem="xee-Ii-wIr" secondAttribute="width" multiplier="0.7" id="81S-PG-Zle"/>
+                        <constraint firstItem="ZnO-FQ-8oG" firstAttribute="leading" secondItem="xee-Ii-wIr" secondAttribute="leading" constant="16" id="BFV-C8-BCq"/>
+                        <constraint firstItem="ZnO-FQ-8oG" firstAttribute="height" secondItem="xee-Ii-wIr" secondAttribute="height" multiplier="0.7" id="EDG-0j-KLB"/>
+                        <constraint firstAttribute="trailing" secondItem="AIx-Pa-dcg" secondAttribute="trailing" constant="16" id="W1f-Rt-W4V"/>
+                        <constraint firstItem="AIx-Pa-dcg" firstAttribute="centerY" secondItem="xee-Ii-wIr" secondAttribute="centerY" id="t6b-if-dDv"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="xee-Ii-wIr" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="0YN-Ug-C4x"/>
+                <constraint firstItem="csE-bq-dTS" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="7xJ-3p-XZ6"/>
+                <constraint firstItem="csE-bq-dTS" firstAttribute="bottom" secondItem="vUN-kp-3ea" secondAttribute="bottom" id="9O6-sq-0a0"/>
+                <constraint firstItem="xee-Ii-wIr" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="GhZ-fO-6lg"/>
+                <constraint firstItem="o2x-hj-Meg" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="Oso-hG-t0k"/>
+                <constraint firstItem="csE-bq-dTS" firstAttribute="height" secondItem="o2x-hj-Meg" secondAttribute="height" id="WfM-xs-mXi"/>
+                <constraint firstItem="csE-bq-dTS" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="e7O-IF-AiD"/>
+                <constraint firstItem="o2x-hj-Meg" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="f6l-Kl-UxH"/>
+                <constraint firstItem="xee-Ii-wIr" firstAttribute="top" secondItem="o2x-hj-Meg" secondAttribute="bottom" id="jmq-Pb-RLv"/>
+                <constraint firstAttribute="trailing" secondItem="o2x-hj-Meg" secondAttribute="trailing" id="qAu-cq-gUh"/>
+                <constraint firstItem="xee-Ii-wIr" firstAttribute="width" secondItem="iN0-l3-epB" secondAttribute="width" id="rNH-6A-Y7v"/>
+                <constraint firstItem="csE-bq-dTS" firstAttribute="top" secondItem="xee-Ii-wIr" secondAttribute="bottom" id="w7W-fx-zkM"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="108.69565217391305" y="343.86160714285711"/>
+        </view>
+    </objects>
+    <designables>
+        <designable name="AIx-Pa-dcg">
+            <size key="intrinsicContentSize" width="30" height="17.5"/>
+        </designable>
+        <designable name="ZnO-FQ-8oG">
+            <size key="intrinsicContentSize" width="6.5" height="18.5"/>
+        </designable>
+    </designables>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

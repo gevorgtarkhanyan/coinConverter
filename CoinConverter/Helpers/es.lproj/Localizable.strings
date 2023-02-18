@@ -1,0 +1,79 @@
+/*
+  Localizable.strings
+  CoinsConverter
+
+  Created by Armen Gasparyan on 02.08.21.
+  
+*/
+
+//MARK: - Converter
+"converter"                         = "Convertidor";
+"market_cap_usd"                    = "Capitalización bursátil en USD";
+"price_usd"                         = "Precio USD";
+"price_btc"                         = "Precio BTC";
+"last_updated"                      = "Última actualización";
+"item_already_exist"                = "Item Already Exist";
+"coin"                              = "Monedas";
+"fiat"                              = "Fíat";
+"min"                              = "min";
+"ago"                              = "atrás";
+
+//MARK: - Settings
+"settings"                          = "Ajustes";
+"dark_mode"                         = "Modo oscuro";
+"offline_mode"                      = "Modo offline";
+"feedback"                          = "Feedback";
+"share_app"                         = "Compartir App";
+"rate_app"                          = "Calificar App";
+"manage_subscription"               = "Gestión de suscripción";
+"app_version"                       = "Versión App";
+"languages"                         = "Idiomas";
+"remove_ads"                        = "Eliminar anuncios";
+
+
+//MARK: - Animation
+"retry"                             = "Retry";
+
+
+//MARK: - Chart
+"rank"                              = "Rank";
+"explorers"                         = "Exploradores";
+"change_1_hour"                     = "Cambiar 1 hora";
+"change_24_hour"                    = "Cambiar 24 hora";
+"change_7_day"                      = "Cambiar 1 semana";
+
+
+//MARK: - Subscription
+"month"                             = "Mes";
+"week"                              = "Semana";
+"year"                              = "Año";
+
+"subscription_save"                 = "Ahorre percent%. 12 meses a newMonthlyCost/mes";
+"subscription_info"                 = " Acceso ilimitado a todas las monedas y divisas";
+"subscription_text"                 = "Después de la compra, su suscripción se renueva automáticamente a menos que se desactive la renovación automática al menos 24 horas antes del final del período actual. El pago se cargará en la cuenta de la App Store al confirmar la compra. La renovación se cargará en su cuenta 24 horas antes de que finalice el periodo actual y se identificará el coste de la renovación. Las suscripciones pueden ser gestionadas y canceladas desde la configuración de la cuenta después de la compra.";
+
+"restore"                           = "Restaurar";
+"privacy_policy"                    = "Política de privacidad";
+"terms_of_use"                      = "Términos de uso";
+
+// MARK: - News
+"news"                                                          = "Noticiass";
+"my_feed"                                                       = "Mi feed";
+"top_news"                                                      = "Las noticias más importantes";
+"all_news"                                                      = "Todas las noticias";
+"added_sources"                                                 = "Fuentes agregadas";
+"all_sources"                                                   = "Todas las fuentes";
+"bookmark"                                                      = "Marcador";
+"add_sources"                                                   = "Agregar fuentes ";
+"top"                                                           = "Top";
+"bookmarks"                                                     = "Marcadores";
+"sources"                                                       = "Marcadores";
+"favorites"                                                     = "Favoritos";
+"add_favorite_text"                                             = "Pulse el signo + para añadir una nueva alimentación:";
+"no_items_available"                                            = "No hay elementos disponibles";
+"all"                                                           = "Todos";
+
+// MARK: - Default
+"cancel"                                                        = "Cancelar";
+"search"                                                        = "Buscar";
+

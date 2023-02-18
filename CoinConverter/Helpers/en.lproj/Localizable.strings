@@ -1,0 +1,80 @@
+/* 
+  Localizable.strings
+  CoinsConverter
+
+  Created by Armen Gasparyan on 02.08.21.
+  
+*/
+
+//MARK: - Converter
+"converter"                         = "Converter";
+"market_cap_usd"                    = "Market cap USD";
+"price_usd"                         = "Price USD";
+"price_btc"                         = "Price BTC";
+"last_updated"                      = "Last updated";
+"item_already_exist"                = "Item Already Exist";
+"coin"                              = "Coin";
+"fiat"                              = "Fiat";
+"min"                              = "min";
+"ago"                              = "ago";
+
+//MARK: - Settings
+"settings"                          = "Settings";
+"dark_mode"                         = "Dark mode";
+"offline_mode"                      = "Offline mode";
+"feedback"                          = "Feedback";
+"share_app"                         = "Share App";
+"rate_app"                          = "Rate App";
+"manage_subscription"               = "Manage Subscription";
+"app_version"                       = "App version";
+"languages"                         = "Languages";
+"remove_ads"                        = "Remove ads";
+
+
+//MARK: - Animation
+"retry"                             = "Retry";
+
+
+//MARK: - Chart
+"rank"                              = "Rank";
+"change_1_hour"                     = "Change 1 hour";
+"change_24_hour"                    = "Change 24 hour";
+"change_7_day"                      = "Change 1 week";
+"explorers"                         = "Explorers";
+
+
+//MARK: - Subscription
+"month"                             = "Month";
+"week"                              = "Week";
+"year"                              = "Year";
+
+"subscription_save"                 = "Save percent%. 12 monts at newMonthlyCost/mo";
+"subscription_info"                 = "Unlimited acces to all coins and foreign exchange";
+"subscription_text"                 = "After the  purchase your subscription automatically renews unless auto-renew is turned off at least 24-hours before the end of the current period. Payment will be charged to App Store Account at confirmation of purchase. Your account will be charged for renewal within 24-hours prior to the end of the current period and identify the cost of the renewal. Subscriptions can be managed and canceled from Account Settings after purchase.";
+
+"restore"                           = "Restore";
+"privacy_policy"                    = "Privacy policy";
+"terms_of_use"                      = "Terms of use";
+
+//MARK: - News -
+"news"                                                          = "News";
+"my_feed"                                                       = "My feed";
+"top_news"                                                      = "Top News";
+"all_news"                                                      = "All News";
+"added_sources"                                                 = "Added Sources";
+"all_sources"                                                   = "All Sources";
+"bookmark"                                                      = "Bookmark";
+"add_sources"                                                   = "Add Sources";
+"top"                                                           = "Top";
+"bookmarks"                                                     = "Bookmarks";
+"sources"                                                       = "Sources";
+"favorites"                                                     = "Favorites";
+"add_favorite_text"                                             = "Press the + sign to add a new feed:";
+"no_items_available"                                            = "No items available";
+"all"                                                           = "All";
+
+// MARK: - Default
+"cancel"                                                        = "Cancel";
+"search"                                                        = "Search";
+
+

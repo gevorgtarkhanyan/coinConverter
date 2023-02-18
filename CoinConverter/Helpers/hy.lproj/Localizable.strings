@@ -1,0 +1,80 @@
+/*
+  Localizable.strings
+  CoinsConverter
+
+  Created by Armen Gasparyan on 02.08.21.
+  
+*/
+
+//MARK: - Converter
+"converter"                         = "Փոխարկիչ";
+"market_cap_usd"                    = "Շուկայական կապ. USD";
+"price_usd"                         = "Գին USD";
+"price_btc"                         = "Գին BTC";
+"last_updated"                      = "Վերջին թարմացում";
+"item_already_exist"                = "Item Already Exist";
+"coin"                              = "Coin";
+"fiat"                              = "Ֆիատ";
+"min"                              = "ր";
+"ago"                              = "առաջ";
+
+//MARK: - Settings
+"settings"                          = "Կարգավորումներ";
+"dark_mode"                         = "Մութ ռեժիմ";
+"offline_mode"                      = "Անցանց ռեժիմ";
+"feedback"                          = "Հետադարձ կապ";
+"share_app"                         = "Կիսվել հավելվածով";
+"rate_app"                          = "Գնահատել հավելվածը";
+"manage_subscription"               = "Բաժանորդագրություն";
+"app_version"                       = "Հավելվածի համարը";
+"languages"                         = "Լեզուներ";
+"remove_ads"                        = "Հեռացնել գովազդը";
+
+
+//MARK: - Animation
+"retry"                             = "Կրկին փորձել";
+
+
+//MARK: - Chart
+"rank"                              = "Կարգ";
+"explorers"                         = "Հետազոտողներ";
+"change_1_hour"                     = "1 ժամվա փոփոխ.";
+"change_24_hour"                    = "24 ժամվա փոփոխ.";
+"change_7_day"                      = "1 շաբաթվա փոփոխ.";
+
+
+
+//MARK: - Subscription
+"month"                             = "Ամիս";
+"week"                              = "Շաբաթ";
+"year"                              = "Տարի";
+
+"subscription_save"                 = "Խնայեք percent%: 12 ամիս՝ newMonthlyCost /ամիս";
+"subscription_info"                 = "Մետաղադրամների և արտարժույթի անսահմանափակ հասանելիություն";
+"subscription_text"                 = "Գնումից հետո Ձեր բաժանորդագրությունը ավտոմատ կերպով թարմացվում է մինչեւ ընթացիկ ժամանակաշրջանի ավարտից առնվազն 24 ժամ առաջ ավտոմատ կերպով վերականգնելը: Վճարումը գանձվում է App Store հաշվի վրա `գնման հաստատման ժամանակ: Ձեր հաշիվը գանձվում է ընթացիկ ժամանակաշրջանի ավարտից առաջ 24 ժամվա ընթացքում, երկարաձգելու համար եւ որոշում է նորացման արժեքը: Բաժանորդագրությունները կարող են կառավարվել եւ չեղարկվել Հաշվի կարգավորումից գնումից հետո:";
+
+"restore"                           = "Վերականգնել";
+"privacy_policy"                    = "Գաղտնիության քաղաքականություն";
+"terms_of_use"                      = "Օգտվելու կանոններ";
+
+//MARK: - News -
+"news"                                                          = "Նորություններ";
+"my_feed"                                                       = "Իմ լրահոսը";
+"top_news"                                                      = "Գլխավոր";
+"all_news"                                                      = "Բոլոր նորությունները";
+"added_sources"                                                 = "Ավելացված աղբյուրներ";
+"all_sources"                                                   = "Բոլոր աղբյուրները";
+"bookmark"                                                      = "Էջանիշ";
+"add_sources"                                                   = "Ավելացնել աղբյուրներ";
+"top"                                                           = "Գլխավոր";
+"bookmarks"                                                     = "Ընտրվածներ";
+"sources"                                                       = "Աղբյուրներ";
+"favorites"                                                     = "Ընտրվածներ";
+"add_favorite_text"                                             = "Հպեք + նշանին՝ նոր լրահոս ավելացնելու համար.";
+"no_items_available"                                            = "Տարրեր չկան";
+"all"                                                           = "Բոլորը";
+
+// MARK: - Default
+"cancel"                                                        = "Չեղարկել";
+"search"                                                        = "Որոնում";
+

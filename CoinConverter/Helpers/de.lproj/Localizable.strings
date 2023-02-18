@@ -1,0 +1,79 @@
+/*
+  Localizable.strings
+  CoinsConverter
+
+  Created by Armen Gasparyan on 02.08.21.
+  
+*/
+
+//MARK: - Converter
+"converter"                         = "Konverter";
+"market_cap_usd"                    = "Marktkapitalisierung USD";
+"price_usd"                         = "Preis USD";
+"price_btc"                         = "Preis BTC";
+"last_updated"                      = "Letztes Update";
+"item_already_exist"                = "Item Already Exist";
+"coin"                              = "Münzen";
+"fiat"                              = "Fiat";
+"min"                              = "Min";
+"ago"                              = "zuvor";
+
+//MARK: - Settings
+"settings"                          = "Einstellungen";
+"dark_mode"                         = "Darkmode";
+"offline_mode"                      = "Offline-Modus";
+"feedback"                          = "Feedback";
+"share_app"                         = "App teilen";
+"rate_app"                          = "App bewerten";
+"manage_subscription"               = "Abo verwalten";
+"app_version"                       = "App Version";
+"languages"                         = "Sprachen";
+"remove_ads"                        = "Werbung entfernen";
+
+
+//MARK: - Animation
+"retry"                             = "Erneut versuchen";
+
+
+//MARK: - Chart
+"rank"                              = "Rang";
+"explorers"                         = "Erforscher";
+"change_1_hour"                     = "Wechseln 1 Stunde";
+"change_24_hour"                    = "Wechseln 24 Stund";
+"change_7_day"                      = "CWechseln 1 Woche";
+
+
+//MARK: - Subscription
+"month"                             = "Monat";
+"week"                              = "Woche";
+"year"                              = "Jahr";
+
+"subscription_save"                 = "Sparen Sie percent%. 12 Monate zu newMonthlyCost/Monat";
+"subscription_info"                 = "Unbegrenzter Zugang zu allen Münzen und Devisen";
+"subscription_text"                 = "Nach dem Kauf verlängert sich Ihr Abonnement automatisch, es sei denn, die automatische Verlängerung wird mindestens 24 Stunden vor dem Ende des aktuellen Zeitraums deaktiviert. Ihr App Store-Konto bei Bestätigung des Kaufs mit der Zahlung belastet. Ihrem Konto wird die Verlängerung innerhalb von 24 Stunden vor dem Ende des aktuellen Zeitraums in Rechnung gestellt und es werden die Kosten für die Verlängerung berechnet. Abonnements können nach dem Kauf über die Kontoeinstellungen verwaltet und gekündigt werden.";
+
+"restore"                           = "Wiederherstellen";
+"privacy_policy"                    = "Datenschutz-Bestimmungen";
+"terms_of_use"                      = "Nutzungsbedingungen";
+
+// MARK: - News
+"news"                                                          = "News";
+"my_feed"                                                       = "Mein Feed";
+"top_news"                                                      = "Top-Nachrichten";
+"all_news"                                                      = "Alle Nachrichten";
+"added_sources"                                                 = "Hinzugefügte Quellen";
+"all_sources"                                                   = "Alle Quellen";
+"bookmark"                                                      = "Lesezeichen";
+"add_sources"                                                   = "Quellen hinzufügen";
+"top"                                                           = "Oberteil";
+"bookmarks"                                                     = "Lesezeichen";
+"sources"                                                       = "Quellen";
+"favorites"                                                     = "Beliebte";
+"add_favorite_text"                                             = "Drücken Sie das +-Zeichen, um einen neuen Feed hinzuzufügen:";
+"no_items_available"                                            = "Keine Artikel verfügbar";
+"all"                                                           = "Alle";
+
+// MARK: - Default
+"cancel"                                                        = "Löschen";
+"search"                                                        = "Suche";
+
